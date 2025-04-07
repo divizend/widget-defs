@@ -1,0 +1,27 @@
+{
+  "name": "@divizend/widget-defs",
+  "version": "1.0.0",
+  "description": "The main OWE JSON schema, all widgets available in the Divizend Companion and a simple mechanism to validate widget definition JSONs.",
+  "keywords": [
+    "widget",
+    "investment",
+    "analysis",
+    "graphs",
+    "modular"
+  ],
+  "homepage": "https://github.com/divizend/widget-defs#readme",
+  "bugs": {
+    "url": "https://github.com/divizend/widget-defs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divizend/widget-defs.git"
+  },
+  "license": "MIT",
+  "author": "Divizend GmbH",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  }
+}
